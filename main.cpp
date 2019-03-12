@@ -3,7 +3,7 @@
 #include <fstream>
 #include <string>
 #include <iomanip>
-#include "person.h"
+#include "person.cpp"
 using namespace std;
 
 void readFile(vector<Person> &employees);
